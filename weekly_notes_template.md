@@ -57,11 +57,6 @@ $$
 \end{aligned}
 $$
 
-### Conceptual Diagrams
-
-<!-- You can embed images or link to figures -->
-![Concept Diagram](../figures/week_X_concept.png)
-*Caption: [Describe what the diagram shows]*
 
 ---
 
