@@ -57,6 +57,9 @@ $$
 \end{aligned}
 $$
 
+--- 
+## 📖 Examples
+
 
 ---
 
