@@ -19,7 +19,7 @@ We follow a structured 8-week schedule designed to build intuition from basics t
 | **5** | **Computation & Sparse GPs** | R&W Ch. 8 | Inducing points, variational inference, scaling |
 | **6** | **Kriging & Spatial Statistics** | Stein (Selected) | Variograms, stationarity, spatial prediction |
 | **7** | **Design & Computer Experiments** | Gramacy / Santner et al. | Latin hypercube, emulation, calibration |
-| **8** | **Special Topic** | Garnett **OR** Ghosal & van der Vaart | Bayesian Optimization **OR** Nonparametric Theory |
+| **8** | **Special Topic** | Garnett | Bayesian Optimization |
 
 > **Note:** "R&W" refers to *Rasmussen & Williams (2006)*.
 
