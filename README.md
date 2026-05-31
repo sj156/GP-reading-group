@@ -5,6 +5,13 @@ Welcome to the **Gaussian Process (GP) Reading Group**! This repository hosts th
 Our goal is to bridge the gap between the foundational machine learning perspective (Rasmussen & Williams), the spatial statistics view (Stein, Cressie), and modern applications in Bayesian optimization and computer experiments.
 
 ---
+## 📅 Meeting Details
+*   **Time:** Every Tuesday 3:00-5:00 p.m. 
+*   **Location:** Zoom Link
+<!-- *   **Contact:** [Insert Organizer Email/Slack]
+-->
+
+---
 
 ## 🗓️ 8-Week Reading Plan
 
@@ -64,8 +71,8 @@ We follow a structured 8-week schedule designed to build intuition from basics t
 *   **Pattern Recognition and Machine Learning** (Bishop, 2006): Quick bridge into Bayesian regression and kernels.
 *   **Learning with Kernels** (Schölkopf & Smola, 2002): Deep dive into RKHS and kernel theory.
 
-### Specialized Extensions
-*   **Bayesian Optimization** (Garnett, 2023): The standard for sequential decision-making and acquisition functions.
+### Future Specialized Extensions
+<!--*   **Bayesian Optimization** (Garnett, 2023): The standard for sequential decision-making and acquisition functions. --> 
 *   **Fundamentals of Nonparametric Bayesian Inference** (Ghosal & van der Vaart, 2017): Mathematical theory of GP priors and posterior contraction.
 *   **Random Fields and Geometry** (Adler & Taylor, 2007): Advanced geometry of sample paths and excursion sets.
 
@@ -82,17 +89,11 @@ We follow a structured 8-week schedule designed to build intuition from basics t
 -->
 ---
 
-## 🤝 How to Contribute
+<!--## 🤝 How to Contribute
 1.  **Fork** this repository.
 2.  Add your notes or code examples to the `/notes` or `/code` directory.
 3.  Submit a **Pull Request** with the week number in the title (e.g., "Week 2: Matérn Kernels").
-
-## 📅 Meeting Details
-*   **Time:** [Insert Time]
-*   **Location:** Zoom Link
-<!-- *   **Contact:** [Insert Organizer Email/Slack]
 -->
 
----
 
 *Happy Reading!* 🚀
