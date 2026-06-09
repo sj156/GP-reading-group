@@ -44,7 +44,7 @@ We follow a structured 8-week schedule designed to build intuition from basics t
 *   **Surrogates** (Gramacy, 2020)
     *   *Role:* Modern applied methodology, design, and optimization.
     *   *Focus:* Scalable GPs, computer experiments, Bayesian optimization.
-    *   [Link to Book](https://www.rbggramacy.com/surrogates/)
+    <!-- *   [Link to Book](https://www.rbggramacy.com/surrogates/) --> 
 
 ### 3. The Spatial Statistics View
 *   **Interpolation of Spatial Data** (Stein, 1999)
@@ -84,9 +84,9 @@ We follow a structured 8-week schedule designed to build intuition from basics t
 ## 🔗 Resources
 *   **Collaborative Notes (Overleaf):** [View/Edit Notes](https://www.overleaf.com/7823943244fhhdpbqnkjbb#3f1c67)
 *   **GPML Toolbox:** [Official Code](http://www.gaussianprocess.org/gpml/code/matlab/doc/)
-<!--*   **GPyTorch:** [PyTorch Library](https://github.com/cornellius-gp/gpytorch)
+*   **GPyTorch:** [GPyTorch Library](https://gpytorch.ai/) [GPytorch GitHub](https://github.com/cornellius-gp/gpytorch)
 *   **Scikit-learn GPs:** [Documentation](https://scikit-learn.org/stable/modules/gaussian_process.html)
--->
+
 ---
 
 <!--## 🤝 How to Contribute
